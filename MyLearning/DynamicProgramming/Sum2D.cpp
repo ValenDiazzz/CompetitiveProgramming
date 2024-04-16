@@ -4,7 +4,7 @@ using namespace std;
 /*Recibimos una matriz de tamaño nxm, una cantidad q de
 queries, luego los numeros de cada posicion. La idea 
 es saber cuanto es la suma de los elementos de la submatriz
-(a,b) (c,d) donde estos representan al esquina superios
+(a,b) (c,d) donde estos representan al esquina superior
 izquierda y la esquina inferior derecha respectivamente.*/
 
 int main(){
